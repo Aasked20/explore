@@ -18,7 +18,8 @@ You can run the tests using:
 
 ```bash
 bundle install
-bundle exec rubocop
+
+
 ```
 
 ## Licenses
